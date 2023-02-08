@@ -1,1 +1,2 @@
-# please, check the branches
+# diploma project
+please, check the branches
